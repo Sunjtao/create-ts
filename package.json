@@ -28,7 +28,7 @@
     },
     "husky": {
         "hooks": {
-            "commit-msg": "style:lint"
+            "pre-commit": "style:lint"
         }
     }
 }
