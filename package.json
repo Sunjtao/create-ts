@@ -28,7 +28,7 @@
     },
     "husky": {
         "hooks": {
-            "commit-msg": "echo 123"
+            "commit-msg": "style:lint"
         }
     }
 }
