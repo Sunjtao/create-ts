@@ -28,7 +28,7 @@
     },
     "husky": {
         "hooks": {
-            "commit-msg": "validate-commit-msg"
+            "commit-msg": "echo 123"
         }
     }
 }
